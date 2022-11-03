@@ -1,4 +1,5 @@
-# Implementing a rainbow table to a list of passwords with reduction function
+# System Security: Assignment 1
+Implementing a rainbow table to a list of passwords with reduction function
 To Run the program, ensure password txt is inside the folder, have python3.11 environment
 python3 rainbow.py Passwords.txt
 
