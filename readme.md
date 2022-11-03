@@ -1,5 +1,5 @@
 # To Run the program, ensure password txt is inside the folder
-# have python2.10
+# have python3.11
 python3 rainbow.py Passwords.txt
 
 # reduction function
